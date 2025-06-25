@@ -1,4 +1,4 @@
-![Banner](https://res.cloudinary.com/dxitsbixv/image/upload/v1750847494/Ratul_Hossain_bpujsc.png)
+![Banner](https://res.cloudinary.com/dxitsbixv/image/upload/v1750847822/Ratul_Hossain-Photoroom_kyxze3.webp)
 
 # 👋 Hi, I'm Ratul Hossain
 
