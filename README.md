@@ -10,9 +10,11 @@
 I'm a dedicated Full-Stack Web Developer with over 2 years of hands-on experience in crafting robust, responsive, and interactive web applications. I specialize in both frontend and backend development using modern web technologies.
 
 🔭 I’m currently:
-- Exploring advanced features of **Next.js**
-- Working on a **tourism booking platform**
-- Improving performance and SEO for **React apps**
+- Building complex UI dashboards using **ShadCN UI**, **Framer Motion**, and **GSAP**
+- Developing complete website systems including user/public pages and admin dashboards
+- Integrating secure and scalable **payment systems** into full-stack applications
+- Learning **SEO techniques** and building SEO-optimized web applications
+- Exploring new technologies like **Docker**, **Redis**, **AI agents**, and **automation tools**
 
 ---
 
