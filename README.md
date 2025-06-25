@@ -32,15 +32,6 @@ I'm a dedicated Full-Stack Web Developer with over 2 years of hands-on experienc
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ratulhossain&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=ratulhossain&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratulhossain&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 📌 Pinned Projects
 
 ### 🔹 [Gym Management Website](https://github.com/ratulhossain/gym-management)
