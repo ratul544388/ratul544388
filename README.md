@@ -26,7 +26,7 @@ I'm a dedicated Full-Stack Web Developer with over 2 years of hands-on experienc
 ## 🌐 Connect With Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://ratulcodes.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratulislam544388@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratul-hossain-a0774521a)
 
 ---
 
@@ -43,18 +43,13 @@ I'm a dedicated Full-Stack Web Developer with over 2 years of hands-on experienc
 
 ### 🔹 [Gym Management Website](https://github.com/ratulhossain/gym-management)
 > Admin panel for Akash Fitness Studio with membership and revenue tracking.  
-> **Live:** [View Site](https://your-live-link.com)  
+> **Live:** [View Site](https://gym-admin-management.vercel.app)  
 > **Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, PostgreSQL
 
 ### 🔹 [Food Ordering Platform](https://github.com/ratulhossain/food-ordering)
 > Real-time food ordering system with chat functionality.  
-> **Live:** [View Site](https://your-live-link.com)  
+> **Live:** [View Site](https://waffle-two.vercel.app/)  
 > **Tech Stack:** React, Next.js, TypeScript, MongoDB, Tailwind CSS
-
-### 🔹 [Tourism Booking Website](https://github.com/ratulhossain/tourism-app)
-> Booking site for travel services with user dashboard and filtering.  
-> **Live:** [View Site](https://your-live-link.com)  
-> **Tech Stack:** React, Next.js, TypeScript, Prisma, Tailwind CSS
 
 ---
 
