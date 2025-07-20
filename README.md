@@ -34,6 +34,11 @@ I'm a dedicated Full-Stack Web Developer with over 2 years of hands-on experienc
 
 ## 📌 Pinned Projects
 
+### 🔹 [Shopping App](https://github.com/ratul544388/ecommerce)
+> Admin panel for Akash Fitness Studio with membership and revenue tracking.  
+> **Live:** [View Site](https://ecommerce-coral-delta.vercel.app)  
+> **Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, MongoDB, Prisma
+
 ### 🔹 [Gym Management Website](https://github.com/ratulhossain/gym-management)
 > Admin panel for Akash Fitness Studio with membership and revenue tracking.  
 > **Live:** [View Site](https://gym-admin-management.vercel.app)  
@@ -48,11 +53,6 @@ I'm a dedicated Full-Stack Web Developer with over 2 years of hands-on experienc
 > Real-time food ordering system with chat functionality.  
 > **Live:** [View Site](https://waffle-two.vercel.app/)  
 > **Tech Stack:** React, Next.js, TypeScript, MongoDB, Tailwind CSS
-
-### 🔹 [Shopping App](https://github.com/ratul544388/ecommerce)
-> Admin panel for Akash Fitness Studio with membership and revenue tracking.  
-> **Live:** [View Site](https://ecommerce-coral-delta.vercel.app)  
-> **Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, MongoDB, Prisma
 
 ---
 
